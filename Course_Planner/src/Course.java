@@ -11,7 +11,6 @@ public class Course {
         this.courseNum = courseNum;
         this.credits = credits;
     }
-    }
 
     public Course (String courseNum, String courseName, int credits) {
         this.courseNum = courseNum;
@@ -20,7 +19,7 @@ public class Course {
     }
 
     public String getNum () {
-        return this.courseName;
+        return this.courseNum;
     }
 
     public void setNum (String courseNum) {
