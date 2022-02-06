@@ -1,0 +1,94 @@
+CICS
+197R,, Special Topics - Introduction to Data Analysis in R,, 1
+256,, Make: A Hands-on Introduction to Physical Computing,, 4
+291S,, Seminar - CICS Second Year Pathways,, 1
+291T,, Seminar - CICS Transfer Success,, 1
+298A,, Practicum - Leadership: Communicating Across Expertise,, 1
+305,, Social Issues in Computing,, 3
+490E,, EMBER: Introduction to Research Methods in Computing,, 1
+COMPSCI
+119,, Introduction to Programming,, 3
+121,, Introduction to Problem Solving with Computers,, 4
+145,, Representing, Storing, and Retrieving Information,, 3
+186,, Using Data Structures,, 4
+187,, Programming with Data Structures,, 4
+198C,, Practicum - Introduction to the C Programming Language,, 1
+220,, Programming Methodology,, 4
+230,, Computer Systems Principles,, 4
+240,, Reasoning Under Uncertainty,, 4
+250,, Introduction to Computation,, 4
+311,, Introduction to Algorithms,, 4
+320,, Introduction to Software Engineering,, 4
+325,, Introduction to Human Computer Interaction,, 3
+326,, Web Programming,, 4
+345,, Practice and Applications of Data Management,, 3
+348,, Principles of Data Science,, 3
+365,, Digital Forensics,, 3
+373,, Introduction to Computer Graphics,, 3
+377,, Operating Systems,, 4
+383,, Artificial Intelligence,, 3
+389,, Introducation to Machine Learning,, 3
+390R,, Reverse Engineering and Vulnerability Analysis,, 3
+398A,, Practicum - Credited Internship,, 6
+410,, Compiler Techniques,, 3
+420,, Software Entrepreneurship,, 3
+445,, Information Systems,, 3
+446,, Search Engines,, 3
+453,, Computer Networks,, 3
+466,, Applied Cryptography,, 3
+490U,, Introduction to User Experience Research,, 3
+491G,, Seminar - Computer Networking Lab,, 3
+501,, Formal Language Theory,, 3
+508,, Ethical Considerations in Computing,, 3
+514,, Algorithms for Data Science,, 3
+520,, Theory and Practice of Software Engineering,, 3
+528,, Mobile and Ubiquitous Computing,, 3
+529,, Software Engineering Project Management,, 3
+532,, Systems for Data Science,, 3
+546,, Applied Information Retrieval,, 3
+550,, Introduction to Simulation,, 3
+561,, System Defense and Test,, 3
+571,, Data Visualization and Exploration,, 3
+574,, Intelligent Visual Computing,, 3
+575,, Combinatorics and Graph Theory,, 3
+589,, Machine Learning,, 3
+590J,, Cyber Effects: Reverse Engineering, Exploit Analysis, and Capability Development,, 3
+590K,, Advanced Digital Forensic Systems,, 3
+590L,, Making Predications,, 3
+590W,, Health Informatics and Data Science,, 3
+591NR,, Seminar - Neural Networks: Neuroscience and Engineering,, 3
+603,, Robotics,, 3
+610,, Compiler Techniques,, 3
+611,, Advanced Algorithms,, 3
+630,, Systems,, 3
+645,, Database Design and Implementation,, 3
+654,, Advanced Wireless Networking and Sensing in IoT,, 3
+674,, Intelligent Visual Computing,, 3
+677,, Distributed and Operating Systems,, 3
+682,, Neural Networks: A Modern Introduction,, 3
+685,, Advanced Natural Language Processing,, 3
+688,, Probabilistic Graphical Models,, 3
+690A,, Advanced Methods in HCI,, 3
+690OP,, Optimization in Computer Science,, 3
+690RA,, Randomized Algorithms and Probabilistic Data Analysis,, 3
+691NR,, Seminar - Neural Networks: Neuroscience and Engineering,, 3
+691O,, Seminar - Tools for Explanatory and Tutoring Systems,, 3
+692F,, Seminar - Conversational Artificial Intelligence,, 2
+692G,, Seminar - Simulation and Causal Modeling,, 3
+692J,, Seminar - Quantum Algorithms,, 3
+697M,, Special Topics - Fixing Social Media,, 3
+701,, Advanced Topics in Computer Science,, 6
+701Y,, Advanced Topics in Computer Science,, 1
+791B,, Seminar - Bayesian Deep Learning,, 3
+879,, Teaching Assistants as Tomorrow's Faculty,, 1
+891M,, Seminar - Theory of Computation,, 1
+INFO
+101,, Introduction to Informatics,, 3
+150,, A Mathematical Foundation for Informatics,, 3
+190S,, Introduction to Programming,, 4
+190T,, Introduction to Data Structures in Python,, 4
+203,, A Networked World,, 3
+248,, Introduction to Data Science,, 4
+390W,, Introduction to Clinical Health Informatics,, 4
+490C,, Introduction to Social and Cultural Analytics,, 3
+690C,, Introducation to Social and Cultural Anayltics,, 3
