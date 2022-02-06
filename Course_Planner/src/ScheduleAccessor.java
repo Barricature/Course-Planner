@@ -1,6 +1,5 @@
 import java.util.Scanner;
 import java.util.ArrayList;
-import java.lang.*;
 import java.io.*;
 
 public class ScheduleAccessor {
@@ -21,8 +20,6 @@ public class ScheduleAccessor {
         while(scan.hasNext()) {
             lineList.add(scan.nextLine());
         }
-        
-        scan.close();
     }
 
     public void addCourse () {

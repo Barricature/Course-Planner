@@ -10,18 +10,17 @@ import org.jsoup.select.Elements;
 public class ScheduleProcessor{
 
     private String url;
-    private String name;
+    private String path;
 
 
-    public ScheduleProcessor (String url, String name) {
+    public ScheduleProcessor (String url, String path) {
         this.url = url;
-        this.name = name;
+        this.path = path;
     }
     
     public void parseSchedule () throws IOException{
         try {
-            String path = this.name + ".txt";
-            File f = new File(path);
+            File f = new File(this.path);
             FileWriter fw = new FileWriter(f);
             PrintWriter pw = new PrintWriter(fw);
 
