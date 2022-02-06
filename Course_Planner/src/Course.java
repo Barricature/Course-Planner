@@ -41,4 +41,8 @@ public class Course {
     public void setCredits (int credits) {
         this.credits = credits;
     }
+
+    public String toString () {
+        return courseNum + ": " + courseName + "(" + credits  + ")" + "\n";
+    }
 }
