@@ -1,0 +1,104 @@
+COMPSCI,121,Introduction to Problem Solving with Computers,4,Fall and Spring
+COMPSCI,145,"Representing, Storing, and Retrieving Information",3,Spring
+COMPSCI,186,Using Data Structures,4,Fall and Spring
+COMPSCI,187,Programming with Data Structures,4,Fall and Spring
+COMPSCI,198C,Practicum - Introduction to the C Programming Language,1,Fall and Spring
+COMPSCI,230,Computer Systems Principles,4,Fall and Spring
+COMPSCI,240,Reasoning Under Uncertainty,4,Fall and Spring
+COMPSCI,250,Introduction to Computation,4,Fall and Spring
+COMPSCI,320,Introduction to Software Engineering,4,Fall and Spring
+COMPSCI,325,Introduction to Human Computer Interaction,3,Fall
+COMPSCI,326,Web Programming,4,Fall and Spring
+COMPSCI,328,Mobile Health Sensing and Analytics,3,Fall
+COMPSCI,333,Internet of Things,3,Spring
+COMPSCI,335,Inside the Box: How Computers Work,3,Fall
+COMPSCI,345,Practice and Applications of Data Management,3,Fall and Spring
+COMPSCI,348,Principles of Data Science,3,Spring
+COMPSCI,360,Introduction to Computer and Network Security,3,Fall
+COMPSCI,365,Digital Forensics,3,Fall
+COMPSCI,370,Introduction to Computer Vision,3,Spring
+COMPSCI,373,Introduction to Computer Graphics,3,Spring
+COMPSCI,377,Operating Systems,4,Fall and Spring
+COMPSCI,383,Artificial Intelligence,3,Fall and Spring
+COMPSCI,389,Introducation to Machine Learning,3,Spring
+COMPSCI,391L,Seminar - Computer Crime Law and the Technologies of Investigation and Privacy,3,Fall
+COMPSCI,410,Compiler Techniques,3,Even Fall
+COMPSCI,420,Software Entrepreneurship,3,Fall
+COMPSCI,445,Information Systems,3,Fall and Spring
+COMPSCI,446,Search Engines,3,Spring
+COMPSCI,453,Computer Networks,3,Fall and Spring
+COMPSCI,461,Secure Distributed Systems,3,Fall
+COMPSCI,466,Applied Cryptography,3,Spring
+COMPSCI,474,Image Synthesis,3,Even Fall
+COMPSCI,490A,Applications of Natural Language Processing,3,Fall
+COMPSCI,491G,Seminar - Computer Networking Lab,3,Spring
+COMPSCI,497S,Special Topics - Scalable Web Systems,3,Fall
+COMPSCI,503,Embedded Computing Systems,3,Fall
+COMPSCI,508,Ethical Considerations in Computing,3,Spring
+COMPSCI,513,Logic in Computer Science,3,Odd Fall
+COMPSCI,514,Algorithms for Data Science,3,Fall and Spring
+COMPSCI,520,Theory and Practice of Software Engineering,3,Fall
+COMPSCI,528,Mobile and Ubiquitous Computing,3,Spring
+COMPSCI,529,Software Engineering Project Management,3,Fall and Spring
+COMPSCI,532,Systems for Data Science,3,Fall
+COMPSCI,535,Computer Architecture,3,Spring
+COMPSCI,546,Applied Information Retrieval,3,Fall
+COMPSCI,550,Introduction to Simulation,3,Spring
+COMPSCI,560,Introduction to Computer and Network Security,3,Fall
+COMPSCI,571,Data Visualization and Exploration,3,Spring
+COMPSCI,574,Intelligent Visual Computing,3,Spring
+COMPSCI,575,Combinatorics and Graph Theory,3,Even Fall
+COMPSCI,576,Game Programming,3,Fall
+COMPSCI,578,Distributed Computing and Systems,3,Odd Fall
+COMPSCI,589,Machine Learning,3,Fall and Spring
+COMPSCI,590J,"Cyber Effects: Reverse Engineering, Exploit Analysis, and Capability Development",3,Spring
+COMPSCI,590K,Advanced Digital Forensic Systems,3,Spring
+COMPSCI,590Q,Quantum Information Systems,3,Even Fall
+COMPSCI,591CF,Seminar - Cybersecurity Lecture Series,1,Fall
+COMPSCI,591NR,Seminar - Neural Networks: Neuroscience and Engineering,3,Spring
+COMPSCI,603,Robotics,3,Spring
+COMPSCI,610,Compiler Techniques,3,Even Fall
+COMPSCI,611,Advanced Algorithms,3,Fall and Spring
+COMPSCI,613,Advanced Logic in Computer Science,3,Odd Fall
+COMPSCI,621,Advanced Software Engineering: Analysis and Evaluation,3,Spring
+COMPSCI,630,Systems,3,Spring
+COMPSCI,631,Programming Languages,3,Fall
+COMPSCI,635,Modern Computer Architecture,3,Odd Fall
+COMPSCI,645,Database Design and Implementation,3,Spring
+COMPSCI,646,Information Retrieval,3,Even Fall
+COMPSCI,650,Applied Information Theory,3,Even Spring
+COMPSCI,651,Optimization in Computer Science,3,Spring
+COMPSCI,653,Computer Networking,3,Odd Fall
+COMPSCI,654,Advanced Wireless Networking and Sensing in IoT,3,Spring
+COMPSCI,655,Performance Evaluation,3,Even Fall
+COMPSCI,660,Advanced Information Assurance,3,Spring
+COMPSCI,661,Secure Distributed Systems,3,Fall
+COMPSCI,670,Computer Vision,3,Fall
+COMPSCI,674,Intelligent Visual Computing,3,Spring
+COMPSCI,677,Distributed and Operating Systems,3,Spring
+COMPSCI,682,Neural Networks: A Modern Introduction,3,Fall
+COMPSCI,683,Artificial Intelligence,3,Spring
+COMPSCI,685,Advanced Natural Language Processing,3,Fall and Spring
+COMPSCI,687,Reinforcement Learning,3,Fall
+COMPSCI,688,Probabilistic Graphical Models,3,Spring
+COMPSCI,689,Machine Learning,3,Fall and Spring
+COMPSCI,690A,Advanced Methods in Human Computer Interaction,3,Spring
+COMPSCI,690AA,Approximation Algorithms and Combinatorial Optimization,3,Even Spring
+COMPSCI,690C,Foundations of Applied Cryptography,3,Fall
+COMPSCI,690Q,Quantum Information Systems,3,Even Fall
+COMPSCI,690RA,Randomized Algorithms and Probabilistic Data Analysis,3,Spring
+COMPSCI,690T,Coding Theory and Applications,3,Odd Spring
+COMPSCI,691DD,Seminar - Research Methods in Empirical Computer Science,3,Fall
+COMPSCI,691NR,Seminar - Neural Networks: Neuroscience and Engineering,3,Spring
+COMPSCI,691O,Seminar - Tools for Explanatory and Tutoring Systems,3,Fall
+COMPSCI,698W,Practicum - CS Research Writing Practicum,1,Fall
+COMPSCI,891M,Seminar - Theory of Computation,1,Fall and Spring
+CICS,191FY1,CICS First Year Seminar,1,Fall
+CICS,256,Make: A Hands-on Introduction to Physical Computing,4,Fall and Spring
+CICS,290A,Introduction to Research in the Discipline,2,Fall
+CICS,305,Social Issues in Computing,3,Fall and Spring
+CICS,396A,Independent Study - Directed Research Group,3,Spring
+CICS,580,Introduction to Numerical Computing with Python,1,Fall
+INFO,150,A Mathematical Foundation for Informatics,3,Fall and Spring
+INFO,203,A Networked World,3,Fall
+INFO,248,Introduction to Data Science,4,Spring
